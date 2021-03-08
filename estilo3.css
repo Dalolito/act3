@@ -1,0 +1,46 @@
+
+#mousePositions{
+
+	border:solid #000000 1px;
+
+	color:#000000;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:11px;
+
+	height:300px;
+
+	overflow:auto;
+
+	width:150px;
+
+}
+.cuadro1{
+		
+	position: absolute;
+	width: 98%;
+	height: 97%;
+	top: 0.5%;
+	left: 0.5%;
+  border: black 5px solid;
+}
+.cuadro2{
+		
+	position: absolute;
+	width: 800px;
+	height: 380px;
+	top:  100px;
+	left: 270px;
+	 border: black 5px dashed;
+}
+.mostrar{
+	position: absolute;
+	left: 35%;
+	top: 40%;
+	width: 29%;
+	  border: white 5px none;
+	  text-align:center;
+	font-size: xx-large;
+	
+}
